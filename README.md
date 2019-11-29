@@ -1,6 +1,6 @@
 # Logger
 
-一个简单的日志库
+GO语言实现的一个简单的日志库
 
 日志级别4个 DEBUG INFO WARN ERROR
 
